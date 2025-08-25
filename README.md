@@ -24,7 +24,7 @@ Current MVP includes:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/starlink-network-analyzer.git
+git clone https://github.com/meltemarsl/starlink-network-analyzer.git
 cd starlink-network-analyzer
 ```
 
